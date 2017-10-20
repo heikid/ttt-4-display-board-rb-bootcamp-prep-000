@@ -6,4 +6,3 @@ def display_board (board)
   board = [rows, "-----------", rows, "-----------", rows]
   return board
 end
-
